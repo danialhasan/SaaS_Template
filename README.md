@@ -1,6 +1,6 @@
 # SaaS_Template
 
-SaaS_Template is an innovative and versatile online learning and assistance tool designed to empower individuals in their educational journey. This tool combines the power of artificial intelligence, educational guidance, and seamless integration with popular productivity platforms like Notion to provide a comprehensive learning experience.
+This is a template for all my SaaS projects going forward. It's a monorepo built with the VENM tech stack.
 
 ## Repository Structure
 
