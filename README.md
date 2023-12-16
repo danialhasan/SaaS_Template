@@ -1,10 +1,10 @@
-# StudySage
+# SaaS_Template
 
-StudySage is an innovative and versatile online learning and assistance tool designed to empower individuals in their educational journey. This tool combines the power of artificial intelligence, educational guidance, and seamless integration with popular productivity platforms like Notion to provide a comprehensive learning experience.
+SaaS_Template is an innovative and versatile online learning and assistance tool designed to empower individuals in their educational journey. This tool combines the power of artificial intelligence, educational guidance, and seamless integration with popular productivity platforms like Notion to provide a comprehensive learning experience.
 
 ## Repository Structure
 
-This repository is a monorepo containing both the frontend and backend of the StudySage application.
+This repository is a monorepo containing both the frontend and backend of the SaaS_Template application.
 
 - `/backend` - Node.js/Express server written in TypeScript
 - `/frontend` - Vue 3 application with Vite, TailwindCSS/Flowbite, and Axios
