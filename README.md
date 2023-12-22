@@ -21,28 +21,28 @@ This repository is a monorepo containing both the frontend and backend of the Sa
 
 1. Navigate to the backend directory:
 
-    ```bash
-    cd backend
-    ```
+   ```bash
+   cd backend
+   ```
 
 2. Install the dependencies:
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
 3. To start the server in development mode:
 
-    ```bash
-    npm run dev
-    ```
+   ```bash
+   npm run dev
+   ```
 
 4. For production, build the project first and then start the server:
 
-    ```bash
-    npm run build
-    npm start
-    ```
+   ```bash
+   npm run build
+   npm start
+   ```
 
 ## Frontend Setup
 
@@ -57,28 +57,27 @@ This repository is a monorepo containing both the frontend and backend of the Sa
 
 1. Navigate to the frontend directory:
 
-    ```bash
-    cd frontend
-    ```
+   ```bash
+   cd frontend
+   ```
 
 2. Install the dependencies:
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
 3. To start the development server:
 
-    ```bash
-    npm run dev
-    ```
+   ```bash
+   npm run dev
+   ```
 
 4. To build the project for production:
 
-    ```bash
-    npm run build
-    ```
-
+   ```bash
+   npm run build
+   ```
 
 ## License
 
